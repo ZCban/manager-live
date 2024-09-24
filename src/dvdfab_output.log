@@ -1,0 +1,8 @@
+2024-09-24 16:41:18,955 INFO [default] 
+
+
+2024-09-24 16:41:18,955 INFO [default] My first info log using default logger, 20230728_1700 , pid 5440
+SUCCESS: The process "YoutubeToMP3Service.exe" with PID 9128 has been terminated.
+SUCCESS: The process "YoutubeToMP3Service.exe" with PID 8484 has been terminated.
+SUCCESS: The process "YoutubeToMP3Process.exe" with PID 3160 has been terminated.
+SUCCESS: The process "YoutubeToMP3Process.exe" with PID 7324 has been terminated.
